@@ -1,180 +1,34 @@
-<div align="center">
+                    Pedro Ikpero
 
-# Pedro Ikpero
+       Software Engineer • Full-Stack Developer • AI/ML Engineer
 
-### Software Engineer · Full-Stack Developer · AI/ML Engineer · Technology Risk & GRC
+          [ animated typing appears here ]
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full-Stack+Developer;AI%2FML+%26+Intelligent+Automation;Building+scalable%2C+reliable+software;Engineering+with+security+%26+risk+in+mind"
-  alt="Animated typing introduction"
-/>
+      [ LinkedIn ] [ Email ] [ GitHub ]
 
-<p>
-Building reliable software across the full stack — from polished interfaces and APIs
-to data-driven systems, automation, and machine learning.
-</p>
+------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Ikpero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ikpero-a898742a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-ikpero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikpero)
-[![Email](https://img.shields.io/badge/Email-pedroikpero24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroikpero24@gmail.com)
+👨‍💻 About Me
 
-</div>
+Professional introduction...
 
----
+------------------------------------------------------------
 
-## About Me
+🧰 Tech Stack
 
-I am a software engineer with experience across **full-stack development, backend systems, frontend engineering, AI/ML tooling, data technologies, cloud infrastructure, and intelligent automation**.
+Languages
+[ Java ] [ JS ] [ Python ] [ PHP ] [ Kotlin ] ...
 
-My engineering work spans **Java/Spring Boot, React, Node.js, Python, relational and NoSQL databases, REST APIs, cloud-native tooling, and machine-learning frameworks**. I also bring an understanding of **technology risk, IT compliance, and GRC**, which strengthens the way I think about reliability, controls, security, and production-ready software.
+Frontend
+[ React ] [ Next.js ] [ Angular ] [ Vue ] ...
 
-- Based in **Dallas, Texas**
-- Interested in **Software Engineering, Full-Stack, Backend, Frontend, AI/ML, Automation, and related engineering roles**
-- Focused on building systems that are **useful, maintainable, secure, and measurable**
-- Comfortable working across the product lifecycle: **design → development → integration → testing → deployment**
+Backend & APIs
+...
 
----
+------------------------------------------------------------
 
-## Selected Engineering Impact
+🚀 Featured Engineering Work
 
-### AutoMCP — Full-Stack Developer & ML Engineer
-
-- Built an automated MCP tool generator using **Python, Playwright, and Watson**, reducing integration time by **90%**.
-- Architected a parallelized network analyzer that generated asynchronous Python tools while filtering approximately **70% of noise**.
-- Developed a self-healing authentication workflow for **CSRF tokens and cookies**, reducing the need for manual agent re-login.
-
-### Memora — Software Engineer
-
-- Built and maintained reusable frontend components with **React.js** and **Tailwind CSS**.
-- Delivered shared UI elements across school-management, e-commerce, and asset-management products.
-- Integrated frontend applications with backend APIs built with **Spring Boot** and **Node.js**.
-
-### User–Product System
-
-- Built a user/account and product-management workflow backed by **MySQL**.
-- Implemented login, dashboard, password-reset, one-to-many ownership, and owner-only update/delete rules.
-- Designed the data-access flow with SQL-injection protection considerations in mind.
-
----
-
-## Technical Stack
-
-### Core Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,kotlin,go,c,cpp,react,nextjs,nodejs,spring,django,flask" alt="Core engineering technologies" />
-</p>
-
-### Full Technical Toolbox
-
-| Area | Technologies |
-|---|---|
-| **Programming Languages** | Java, JavaScript, Python, PHP, Kotlin, Go, C, C++ |
-| **Frontend** | React.js, Next.js, Angular.js, Vue.js, HTML5, CSS3 |
-| **Styling & UI** | Tailwind CSS, Bootstrap, SASS/LESS, Responsive Design |
-| **Backend & Frameworks** | Spring Boot, Node.js, Django, Flask |
-| **APIs & Architecture** | RESTful APIs, Microservices, CI/CD |
-| **Databases** | MySQL, MongoDB, Firebase, Oracle |
-| **AI / Machine Learning** | PyTorch, TensorFlow, NumPy, Pandas, CUDA |
-| **Data & Analytics** | Apache Spark, Tableau, Microsoft Excel, Data Visualization |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, Apache Kafka |
-| **Developer Tooling** | Git, GitHub, VS Code, npm, Webpack |
-| **Systems & Security Tools** | Kali Linux |
-| **Robotics & Embedded** | Arduino, Raspberry Pi, ROS2 |
-| **Engineering Tools** | NI Multisim, Xilinx Vivado Design Suite, CAD |
-| **Design** | Figma, Adobe XD |
-| **Productivity** | Microsoft Office |
-| **Research & Domain Knowledge** | Scientific Research Principles, Advanced Biology |
-| **Professional Strengths** | Clear Communication, Collaborative Teamwork, Creative Problem-Solving, Attention to Detail, Adaptability |
-
----
-
-## What I Build
-
-```text
-Full-Stack Applications
-├── Frontend       → React · Next.js · Angular · Vue
-├── Backend        → Java/Spring Boot · Node.js · Python
-├── APIs           → REST · service integration
-├── Data           → MySQL · MongoDB · Firebase · Oracle
-├── AI / ML        → PyTorch · TensorFlow · NumPy · Pandas
-├── Infrastructure → AWS · Docker · Kubernetes · Kafka
-└── Delivery       → Git · CI/CD · testing · deployment
-```
-
-I am particularly interested in engineering problems at the intersection of:
-
-**Software Engineering × AI/ML × Automation × Secure Systems × Technology Risk**
-
----
-
-## Featured Work
-
-### Professional Portfolio
-
-A modern, responsive personal portfolio built with **Vite + React** to present engineering experience, project impact, technical capabilities, and professional background.
-
-[View repository →](https://github.com/ikpero/portfolio)
-
-### AutoMCP
-
-Automated tooling focused on MCP generation, browser automation, network analysis, and resilient authentication workflows.
-
-**Technologies:** Python · Playwright · asynchronous tooling · authentication automation
-
-> Source code can be linked here when the project is published to GitHub.
-
-### Secure User–Product Platform
-
-A full-stack application demonstrating authentication, account management, database relationships, access control, and owner-scoped product operations.
-
-**Technologies:** MySQL · backend APIs · authentication · relational data modeling
-
-> Source code can be linked here when the project is published to GitHub.
-
----
-
-## Engineering Approach
-
-- **Maintainable** — understandable code, reusable components, and clear system boundaries.
-- **Reliable** — thoughtful error handling, testing, and predictable behavior.
-- **Secure** — authentication, authorization, data protection, and risk-aware design.
-- **Scalable** — architectures and tooling that can evolve with product demand.
-- **Measurable** — improvements should be connected to useful outcomes, not just code volume.
-
----
-
-## Current Focus
-
-- Building and documenting production-quality **full-stack projects**
-- Applying **AI/ML and automation** to real engineering workflows
-- Strengthening cloud-native and distributed-system skills
-- Publishing more engineering work, technical documentation, and project case studies
-- Exploring the intersection of **software engineering, security, technology risk, and compliance**
-
----
-
-## Let's Connect
-
-I am open to conversations around **software engineering, full-stack development, backend engineering, AI/ML, intelligent automation, and technology-focused opportunities**.
-
-<p>
-  <a href="mailto:pedroikpero24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-ikpero-a898742a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ikpero">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>Building useful software. Learning continuously. Engineering with purpose.</sub>
-</div>
-��#   i k p e r o 
- 
- 
+AutoMCP
+Memora
+User–Product System
