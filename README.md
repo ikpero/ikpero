@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1><b>👨🏽‍💻 Hi, I'm Pedro Ikpero</b></h1>
+<h1>👨🏽‍💻 Hi, I'm Pedro Ikpero</h1>
 
-<h3>Software Engineer · Full-Stack Developer · AI/ML Engineer</h3>
-
-<!-- Typing animation -->
+<h3>Software Engineer • Full-Stack Developer • AI/ML Engineer</h3>
 
 <a href="https://github.com/ikpero">
   <img
@@ -30,23 +28,24 @@
 
 </div>
 
-👨🏽‍💻 About Me
+<hr/>
 
-💻 Software engineer with experience across full-stack development, frontend, backend, APIs, databases, cloud, and AI/ML
+<h2>👨🏽‍💻 About Me</h2>
 
-🧠 Interested in intelligent systems, automation, scalable architecture, and developer tooling
+<ul>
+  <li>💻 Software engineer with experience across <b>full-stack development, frontend, backend, APIs, databases, cloud, and AI/ML</b></li>
+  <li>🧠 Interested in <b>intelligent systems, automation, scalable architecture, and developer tooling</b></li>
+  <li>🔐 Brings additional exposure to <b>technology risk, IT compliance, and GRC</b></li>
+  <li>📍 Based in <b>Dallas, Texas</b></li>
+  <li>🤝 Open to <b>Software Engineering, Full-Stack, Backend, Frontend, AI/ML, and related engineering opportunities</b></li>
+  <li>⚙️ Comfortable working across <b>design → development → integration → testing → deployment</b></li>
+</ul>
 
-🔐 Brings additional exposure to technology risk, IT compliance, and GRC
+<hr/>
 
-📍 Based in Dallas, Texas
+<h2>🛠 Skills & Technologies</h2>
 
-🤝 Open to Software Engineering, Full-Stack, Backend, Frontend, AI/ML, and related engineering opportunities
-
-⚙️ Comfortable working across the lifecycle: design → development → integration → testing → deployment
-
-🛠 Skills & Technologies
-
-💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -59,7 +58,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-🎨 Frontend Development
+<h3>🎨 Frontend Development</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -73,7 +72,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-⚙️ Backend Development & APIs
+<h3>⚙️ Backend Development & APIs</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -84,7 +83,7 @@
   <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge"/>
 </p>
 
-🤖 AI, Machine Learning & Data
+<h3>🤖 AI, Machine Learning & Data</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -96,7 +95,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -105,7 +104,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-☁️ Cloud, DevOps & Infrastructure
+<h3>☁️ Cloud, DevOps & Infrastructure</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
@@ -117,7 +116,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-🔧 Engineering, Robotics & Design Tools
+<h3>🔧 Engineering, Robotics & Design Tools</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -129,61 +128,92 @@
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </p>
 
-Also experienced with: NI Multisim · Xilinx Vivado Design Suite · CAD · Microsoft Office · Microsoft Excel
+<p><b>Also experienced with:</b> NI Multisim · Xilinx Vivado Design Suite · CAD · Microsoft Office · Microsoft Excel</p>
 
-🚀 Featured Engineering Work
+<hr/>
 
-🧠 AutoMCP
+<h2>🚀 Featured Engineering Work</h2>
 
-Full-Stack Developer & ML Engineer
+<h3>🧠 AutoMCP</h3>
 
-Built an automated MCP tool generator using Python, Playwright, and Watson
+<p><b>Full-Stack Developer & ML Engineer</b></p>
 
-Reduced integration time by 90%
+<ul>
+  <li>Built an automated MCP tool generator using <b>Python, Playwright, and Watson</b></li>
+  <li>Reduced integration time by <b>90%</b></li>
+  <li>Architected a parallelized network analyzer that filtered approximately <b>70% of noise</b></li>
+  <li>Developed a self-healing authentication workflow for <b>CSRF tokens and cookies</b></li>
+</ul>
 
-Architected a parallelized network analyzer that filtered approximately 70% of noise
+<br/>
 
-Developed a self-healing authentication workflow for CSRF tokens and cookies
+<h3>💼 Memora</h3>
 
-💼 Memora
+<p><b>Software Engineer</b></p>
 
-Software Engineer
+<ul>
+  <li>Built and maintained reusable frontend components using <b>React.js</b> and <b>Tailwind CSS</b></li>
+  <li>Delivered shared UI elements across school-management, e-commerce, and asset-management products</li>
+  <li>Integrated frontend applications with backend APIs built with <b>Spring Boot</b> and <b>Node.js</b></li>
+</ul>
 
-Built and maintained reusable frontend components using React.js and Tailwind CSS
+<br/>
 
-Delivered shared UI elements across school-management, e-commerce, and asset-management products
+<h3>🔐 User–Product System</h3>
 
-Integrated frontend applications with backend APIs built with Spring Boot and Node.js
+<p><b>Full-Stack Application</b></p>
 
-🔐 User–Product System
+<ul>
+  <li>User registration and login</li>
+  <li>Dashboard and password-reset workflows</li>
+  <li><b>MySQL</b> relational data modeling</li>
+  <li>One-to-many user/product relationships</li>
+  <li>Owner-only update and delete permissions</li>
+  <li>SQL-injection protection considerations</li>
+</ul>
 
-Full-Stack Application
+<hr/>
 
-User registration and login
+<h2>🎯 Engineering Focus</h2>
 
-Dashboard and password-reset workflows
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React · Next.js · Angular · Vue</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Java / Spring Boot · Node.js · Python</td>
+  </tr>
+  <tr>
+    <td><b>APIs & Architecture</b></td>
+    <td>REST · Microservices · Integrations</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL · MongoDB · Firebase · Oracle</td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>PyTorch · TensorFlow · NumPy · Pandas</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>Apache Spark · Tableau · CUDA</td>
+  </tr>
+  <tr>
+    <td><b>Cloud / DevOps</b></td>
+    <td>AWS · Docker · Kubernetes · Kafka</td>
+  </tr>
+  <tr>
+    <td><b>Delivery</b></td>
+    <td>Git · CI/CD · Testing · Deployment</td>
+  </tr>
+</table>
 
-MySQL relational data modeling
+<hr/>
 
-One-to-many user/product relationships
-
-Owner-only update and delete permissions
-
-SQL-injection protection considerations
-
-🧭 Engineering Focus
-
-Software Engineering
-├── Frontend        → React · Next.js · Angular · Vue
-├── Backend         → Java/Spring Boot · Node.js · Python
-├── APIs            → REST · Microservices · Integrations
-├── Databases       → MySQL · MongoDB · Firebase · Oracle
-├── AI / ML         → PyTorch · TensorFlow · NumPy · Pandas
-├── Data            → Spark · Tableau · CUDA
-├── Cloud / DevOps  → AWS · Docker · Kubernetes · Kafka
-└── Delivery        → Git · CI/CD · Testing · Deployment
-
-📈 GitHub Activity & Stats
+<h2>📈 GitHub Activity & Stats</h2>
 
 <p align="center">
   <img
@@ -205,19 +235,21 @@ Software Engineering
   />
 </p>
 
-🎯 Current Focus
+<hr/>
 
-🚀 Building polished, production-quality full-stack applications
+<h2>🎯 Current Focus</h2>
 
-🤖 Applying AI/ML and automation to real engineering workflows
+<ul>
+  <li>🚀 Building polished, production-quality <b>full-stack applications</b></li>
+  <li>🤖 Applying <b>AI/ML and automation</b> to real engineering workflows</li>
+  <li>☁️ Strengthening <b>cloud-native and distributed-system</b> skills</li>
+  <li>📚 Publishing better-documented engineering projects and case studies</li>
+  <li>🔐 Exploring the intersection of <b>software engineering, security, automation, and technology risk</b></li>
+</ul>
 
-☁️ Strengthening cloud-native and distributed-system skills
+<hr/>
 
-📚 Publishing better-documented engineering projects and case studies
-
-🔐 Exploring the intersection of software engineering, security, automation, and technology risk
-
-🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
 
@@ -235,8 +267,10 @@ Software Engineering
 
 </p>
 
+<hr/>
+
 <div align="center">
 
-💡 Build useful software. Solve meaningful problems. Keep improving.
+<h3>💡 Build useful software. Solve meaningful problems. Keep improving.</h3>
 
 </div>
